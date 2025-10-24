@@ -23,6 +23,7 @@ This repository is a GitHub Learning Lab slideshow project built with Jekyll and
 
 ### Markdown Content
 - Use standard Markdown syntax for slide content in `_posts/` directory
+- Use 4-space indentation for nested lists and code blocks (per `.editorconfig`)
 - Follow Jekyll post naming convention: `YYYY-MM-DD-title.md`
 - Include proper YAML frontmatter in all post files
 - Keep slide content concise and focused
@@ -80,7 +81,8 @@ bundle exec jekyll serve
 ## Style Guidelines
 
 ### Code Formatting
-- Use consistent 2-space indentation for YAML, HTML, and Markdown
+- Use consistent 2-space indentation for YAML and HTML
+- Use 4-space indentation for Markdown (as specified in `.editorconfig`)
 - Use 2-space indentation for Ruby (following community conventions)
 - Keep lines reasonably short (aim for 80-120 characters)
 - Add comments only when necessary to explain non-obvious logic
