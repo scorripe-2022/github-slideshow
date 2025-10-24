@@ -11,3 +11,9 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 I'll meet you over there, can't wait to get started!
 
 This course is using the :sparkles: open source project [reveal.js](https://github.com/hakimel/reveal.js/). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
+
+## GitHub Copilot Support
+
+This repository includes GitHub Copilot configuration to provide enhanced AI assistance when working with the codebase. The `.github/copilot-instructions.md` file contains project-specific guidance that helps Copilot understand the repository structure, coding standards, and best practices for this Jekyll-based slideshow project.
+
+When using GitHub Copilot in supported IDEs (VS Code, Visual Studio, JetBrains, Xcode, etc.), Copilot will automatically use these instructions to provide more contextual and relevant code suggestions.
