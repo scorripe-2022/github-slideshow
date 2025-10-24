@@ -80,8 +80,9 @@ bundle exec jekyll serve
 ## Style Guidelines
 
 ### Code Formatting
-- Use consistent indentation (2 spaces for YAML, HTML; 4 spaces for Ruby/Markdown)
-- Keep lines under 100 characters where practical
+- Use consistent 2-space indentation for YAML, HTML, and Markdown
+- Use 2-space indentation for Ruby (following community conventions)
+- Keep lines reasonably short (aim for 80-120 characters)
 - Add comments only when necessary to explain non-obvious logic
 
 ### Slide Content
